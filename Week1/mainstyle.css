@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(5, 5, 50);
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+.menu{
+    width:100%;
+}
+
+/* .gallery{
+    width:150%;
+} */
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 10%;
+  padding: 1px;
+}
